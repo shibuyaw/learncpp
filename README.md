@@ -1,2 +1,3 @@
 # learncpp
-Learn C++ 
+
+Notes of learning
